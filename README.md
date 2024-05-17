@@ -3,9 +3,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Maaxxxxii?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMaaxxxii&screen_name=Maaxxxii)
 
 - I am employed as an IT specialist for system integration at RWTH Aachen University
-- CEO of Contrum LTD
-- Owner of Battle.rip & PvPGym.net
-- I am currently learning several programming languages, especially scripts, due to my apprenticeship. - I Love scripting
+- CEO of Contrum Services
+- Owner of Battle.rip, PrismaMC.net & PvPGym.net
+- Developer & System Administrator @StatsPvPGG & @SpreenStudios
+- I am currently learning several programming languages, especially scripts, due to my apprenticeship. - I Love scripting & backend stuff
 
 ### Contact
 
@@ -34,6 +35,6 @@
 <br />
 <br />
 
-[website]: https://battle.rip
+[website]: https://contrum.org
 [twitter]: https://twitter.com/maaxxxxii
 
