@@ -1,6 +1,6 @@
 ### I'm Maaxxxii 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Maaxxxxii?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMaaxxxii&screen_name=Maaxxxii)
+[![Twitter Follow](https://img.shields.io/twitter/follow/maaxxxxii?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmaaxxxxii&screen_name=maaxxxxii)
 
 - IT Specialist for system integration
 - CEO of Contrum Services
@@ -10,7 +10,7 @@
 
 ### Contact
 
-[<img align="left" alt="Maaxxxxii | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="maaxxxxii | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
